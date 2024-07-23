@@ -31,3 +31,6 @@ Polymorphism allows the application to handle different payment methods uniforml
 Aggregation is used to represent relationships where one class is a part of another class. For example, an Owner can own multiple buildings, but each building exists independently.
 ### Composition 💫
 Composition represents a strong relationship where one class is composed of one or more instances of other classes. For instance, an Address is a part of a Building and cannot exist without it.
+
+## Class Diagram:
+![RentalApplication](https://github.com/user-attachments/assets/d483ed21-683c-40f7-b7d1-12f1058dddb3)
